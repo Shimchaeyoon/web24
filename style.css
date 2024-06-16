@@ -26,6 +26,8 @@
 					margin: 5px auto; }
 	#contents h3{text-align:center;
 				 color:#2F62B1;}
+	#contents h5{text-align:center;
+				 color:#2F62B1;}
 	#contents p{padding:0 5%;
 				line-height:1.7em;}
 	#footer {background-color:#323232;
