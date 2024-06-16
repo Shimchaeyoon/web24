@@ -11,8 +11,7 @@
 	label,#toggle {display:none;}
     #nav {	padding:0;
 	        margin: 0;
-			text-align:center;
-			display:inline;}
+			text-align:center;}
 	#nav li{ display: inline-block;
 	         padding: 20px 80px;
 			 font-weight:bold;
